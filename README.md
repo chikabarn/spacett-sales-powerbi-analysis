@@ -10,7 +10,7 @@ The objective was to clean messy transactional data and build an executive dashb
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png.png)
+![Dashboard Preview](images/dashboard-preview.png.jpg)
 
 ---
 
